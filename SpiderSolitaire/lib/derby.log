@@ -1,0 +1,33 @@
+Fri Jun 19 13:41:40 NZST 2020 : Apache Derby Network Server - 10.14.2.0 - (1828579) started and ready to accept connections on port 1527
+----------------------------------------------------------------
+Fri Jun 19 13:42:03 NZST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0172-ca3d-13f1-0000562f37f9 
+on database directory C:\Users\Alex Winterton\Documents\NetBeansProjects\SpiderSolitaire\lib\SolitaireDB with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@c387f44 
+Loaded from file:/C:/Users/Alex%20Winterton/Documents/AUT/Year%202/Sem%201/PDC/db-derby-10.14.2.0-bin(4)/db-derby-10.14.2.0-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=13.0.2+8
+user.dir=C:\Users\Alex Winterton\Documents\AUT\Year 2\Sem 1\PDC\db-derby-10.14.2.0-bin(4)\db-derby-10.14.2.0-bin
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=C:\Users\Alex Winterton\Documents\NetBeansProjects\SpiderSolitaire\lib
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Jun 19 13:42:09 NZST 2020:
+Shutting down instance a816c00e-0172-ca3d-13f1-0000562f37f9 on database directory C:\Users\Alex Winterton\Documents\NetBeansProjects\SpiderSolitaire\lib\SolitaireDB with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@c387f44 
+Fri Jun 19 13:42:09 NZST 2020 Thread[DRDAConnThread_2,5,main] (DATABASE = SolitaireDB), (DRDAID = {2}), Database 'SolitaireDB' shutdown.
+----------------------------------------------------------------
+Fri Jun 19 13:42:25 NZST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 6ede40af-0172-ca3d-13f1-0000562f37f9 
+on database directory C:\Users\Alex Winterton\Documents\NetBeansProjects\SpiderSolitaire\lib\SolitaireDB with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@c387f44 
+Loaded from file:/C:/Users/Alex%20Winterton/Documents/AUT/Year%202/Sem%201/PDC/db-derby-10.14.2.0-bin(4)/db-derby-10.14.2.0-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=13.0.2+8
+user.dir=C:\Users\Alex Winterton\Documents\AUT\Year 2\Sem 1\PDC\db-derby-10.14.2.0-bin(4)\db-derby-10.14.2.0-bin
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=C:\Users\Alex Winterton\Documents\NetBeansProjects\SpiderSolitaire\lib
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Jun 19 16:19:49 NZST 2020: Shutting down Derby engine
